@@ -10,7 +10,7 @@ humandate: "March 6, 2020"
 humantime: "9:00 am - 3:00 pm"    
 startdate: 2020-03-06     
 enddate: 2020-03-06        
-instructor: ["Jason Macklin", "Aaron McDivitt"] 
+instructor: ["Jason Macklin", "Aaron McDivitt", "Matt Bradley"] 
 helper: ["Sue McClatchy"]
 email: ["susan.mcclatchy@jax.org"] 
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)

@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "The Jackson Laboratory"       
-address: "10 Discovery Dr Farmington CT | 600 Main St Bar Harbor ME"     
+address: "Holt Conf Rm, 10 Discovery Dr Farmington CT | Bioinf Training Rm, 600 Main St Bar Harbor ME"     
 country: "us"      
 language: "en"    
 latitude: "41.732400"    
